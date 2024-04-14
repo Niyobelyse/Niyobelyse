@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software developer from Rwanda</h3>
 <img src="https://github.com/Niyobelyse/Niyobelyse/blob/main/djangorect.jpg"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niyobelyse&label=Profile%20views&color=0e75b6&style=flat" alt="Niyobelyse" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niyobelyse&label=Profile%20views&color=0e75b6&style=flat" alt="niyobelyse" /> </p>
 
 - 💬 Ask me about **Javascript,react,next js,python,django,tailwind**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/niyosenga-belyse-637703252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niyosenga-belyse" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/niyosenga-belyse-637703252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niyosenga-belyse" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
