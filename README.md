@@ -1,9 +1,8 @@
-![MasterHead](https://github.com/Niyobelyse/Niyobelyse/blob/main/djangorect.jpg)
 <h1 align="center">Hi 👋, I'm Belyse Niyonsenga</h1>
 <h3 align="center">A passionate Software developer from Rwanda</h3>
 <img src="https://github.com/Niyobelyse/Niyobelyse/blob/main/djangorect.jpg"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niyobelyse&label=Profile%20views&color=0e75b6&style=flat" alt="niyobelyse" /> </p>
+<p align="left" width="100%" height="80px"> <img src="https://komarev.com/ghpvc/?username=niyobelyse&label=Profile%20views&color=0e75b6&style=flat" alt="niyobelyse" /> </p>
 
 - 💬 Ask me about **Javascript,react,next js,python,django,tailwind**
 
