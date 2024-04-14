@@ -3,6 +3,7 @@
 <img src="https://github.com/Niyobelyse/Niyobelyse/blob/main/djangorect.jpg" width="100%" height="100%"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niyobelyse&label=Profile%20views&color=0e75b6&style=flat" alt="niyobelyse" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niyobelyse" alt="niyobelyse" /></a> </p>
 
 - 💬 Ask me about **Javascript,react,next js,python,django,tailwind**
 
